@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Web development and Database management
 - 💞️ I’m looking to collaborate on Web development and automation projects
 - 📫 How to reach me -- harishrajselva@gmail.com
-[![Programming Languages I Know:](https://skillicons.dev/icons?i=bash,python,java,c,js,html,css)]
+
+
+  ![Programming Languages I Know:](https://skillicons.dev/icons?i=bash,python,java,c,js,html,css)
 
 
 
