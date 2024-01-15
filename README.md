@@ -30,8 +30,8 @@ Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 |--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | ![Harishraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteBender24&show_icons=true&theme=neon) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBender24&layout=compact&theme=neon) |
 
-| GitHub Stats                                                                                                   | Profile Details                                                                                               |
+| GitHub Streak                                                                                                  | Profile Details                                                                                               |
 |---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| ![Harishraj's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ByteBender24&theme=2077&utcOffset={utcOffset}) | ![Harishraj's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByteBender24&theme=2077) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=ByteBender24&theme=dark) | ![Harishraj's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByteBender24&theme=2077) |
 
 
