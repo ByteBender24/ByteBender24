@@ -25,6 +25,14 @@ Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 
 <h3 align="left"> ~ Connect me with :</h3>
 
+[![Connect me with](https://skillicons.dev/icons?i=linkedin,instagram,twitter&theme=dark)](https://skillicons.dev)
 
+| GitHub Stats                                                                                           | Top Languages                                                                                            |
+|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| ![Harishraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteBender24&show_icons=true&theme=neon) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBender24&layout=compact&theme=neon) |
+
+| GitHub Streak                                                                                                  | Profile Details                                                                                               |
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=ByteBender24&theme=dark) | ![Harishraj's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByteBender24&theme=2077) |
 
 
