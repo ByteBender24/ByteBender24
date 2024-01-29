@@ -35,6 +35,7 @@ Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 |---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | ![GitHub Streak](https://streak-stats.demolab.com/?user=ByteBender24&theme=dark) | ![ByteBender24's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByteBender24&theme=2077) |
 
-| GitHub Activity                                                                                                                                                                                                      |
+| GitHub Activity                                                                                               |
+|---------------------------------------------------------------------------------------------------------------|
 ![ByteBender24's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ByteBender24&theme=react-dark)
 
