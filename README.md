@@ -13,7 +13,7 @@ Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 
 <h3 align="left"> ~ Languages I'm familiar with :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,bash,html,css,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,bash,html,css,ruby,js&theme=dark)](https://skillicons.dev)
 
 <h3 align="left"> ~ Frameworks :</h3>
 
