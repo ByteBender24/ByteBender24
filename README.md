@@ -17,7 +17,7 @@ Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 
 <h3 align="left"> ~ Frameworks :</h3>
 
-[![Frameworks](https://skillicons.dev/icons?i=django,flask,bootstrap,sass,tailwind&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=django,flask,bootstrap,sass,tailwind,rails&theme=dark)](https://skillicons.dev)
 
 <h3 align="left"> ~ Frequently used tools and services:</h3>
 
