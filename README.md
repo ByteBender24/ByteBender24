@@ -21,7 +21,7 @@ Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 
 <h3 align="left"> ~ Frequently used tools and services:</h3>
 
-[![Tools & Services](https://skillicons.dev/icons?i=git,github,linux,mysql,postman,vscode,wordpress,stackoverflow&theme=dark)](https://skillicons.dev)
+[![Tools & Services](https://skillicons.dev/icons?i=git,github,linux,wordpress,mysql,postman,vscode,stackoverflow,latex&theme=dark)](https://skillicons.dev)
 
 <h3 align="left"> ~ Connect me with :</h3>
 
