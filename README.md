@@ -13,15 +13,15 @@ Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 
 <h3 align="left"> ~ Languages I'm familiar with :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,bash,html,css,ruby,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,dart,java,html,css,ruby,js&theme=dark)](https://skillicons.dev)
 
 <h3 align="left"> ~ Frameworks :</h3>
 
-[![Frameworks](https://skillicons.dev/icons?i=django,flask,bootstrap,sass,tailwind&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=django,flask,bootstrap,fastapi,flutter,rails&theme=dark)](https://skillicons.dev)
 
 <h3 align="left"> ~ Frequently used tools and services:</h3>
 
-[![Tools & Services](https://skillicons.dev/icons?i=git,github,linux,wordpress,mysql,postman,vscode,stackoverflow,latex&theme=dark)](https://skillicons.dev)
+[![Tools & Services](https://skillicons.dev/icons?i=git,github,linux,wordpress,mysql,postman,vscode&theme=dark)](https://skillicons.dev)
 
 <h3 align="left"> ~ Connect me with :</h3>
 
